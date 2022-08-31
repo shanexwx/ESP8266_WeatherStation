@@ -1,0 +1,19 @@
+Added Component: Designator=U2(SOT-223-3_L6.7-W3.7-P2.30-LS7.0-BR)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20211201/578FEEF9766904D398893791CE3EC879.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JSMSEMI(Ω‹ ¢Œ¢)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOT-223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C917183"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "AMS1117-3.3_C917183"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R7-2
+Change Net Name : Old Net Name=Net1_2 New Net Name=Net2_2
+Added Class: Name=Sheet2
+Added Room: Name=Sheet2
